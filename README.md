@@ -339,3 +339,18 @@ These are possible extensions, not prerequisites for the passing test results do
 The project establishes a modular single-cycle RISC-V CPU and a set of directed simulation testbenches covering the tested ALU operations, control flow, memory behavior, immediate generation, register-file behavior, and integrated CPU execution.
 
 The implementation and verification work provide a foundation for deeper study of processor datapaths, RTL verification, and pipelined CPU architecture.
+---
+
+## Author
+
+**Name:** PEESU SWARANJITHREDDY  
+**Department:** Electronics and Communication Engineering (ECE)  
+**Institution:** National Institute of Technology, Rourkela  
+**Project:** RISC-V Single-Cycle CPU — RV32I  
+**Tools:** SystemVerilog, AMD Xilinx Vivado 2022.2
+
+---
+
+## License
+
+This project is intended for educational and learning purposes.
